@@ -1,0 +1,6 @@
+When designing a software we should be considering things like:
+1. Scalability 
+2. maintainability
+as an application grows.
+
+In the long run, the main aim of the principles is never defeated. That is, helping software developers make changes to their code without causing any major issues.
